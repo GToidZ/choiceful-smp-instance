@@ -1,0 +1,90 @@
+Adorn
+Alternate Current
+Architectury
+Armor Trims Backport      # In this instance repository, we have my own scuffed version of slow JEI fix.
+Automobility
+AutoRegLib
+Bad Wither No Cookie Reloaded
+Balm Lib
+Baubley Heart Canisters
+Biome Makeover
+The Bumblezone
+Caelus API
+Cloth Config API
+CoFH Core
+Colorful Hearts
+Comforts
+Configured
+Controlling
+CorgiLib
+Corpse Mod
+Create
+Create Cafe
+Create Deco
+Create Ender Transmission
+Critters and Companions
+Curios API
+Deeper and Darker
+Delightful
+Dynamic Asset Generator
+End's Phantasm
+Ensorcellation
+Every Compat (Wood Good)
+Excavated Variants
+Farmer's Delight
+FerriteCore
+ForgeEnderTech
+Forgiving Void
+GeckoLib
+Global Packs
+Jade
+Jade Addons
+Joy of Painting
+Just Enough Items
+Kotlin for Forge
+Large Ore Deposits
+Memory Leak Fix
+MmmMmmMmmmmm
+Moonlight Lib
+More Geodes Reforged
+Mouse Tweaks
+Nether's Delight
+Nether's Exoticism
+No Chat Reports
+No Night Vision Flashing
+Oculus
+Oh The Biomes You'll Go
+Origins
+Origins: Classes
+Packages
+Pluto
+Polymorph
+Quark
+Refined Advancements
+Repurposed Structures
+Rhodium
+Rotten Creatures
+Rubidium
+Screenshot to Clipboard
+Simple Voice Chat
+Simple Hats
+Sophisticated Backpacks
+Sophisticated Core
+Sound Physics Remastered
+Subterrestial
+Supplementaries
+Tax Free Levels
+TerraBlender
+Tiny Coal
+Towns and Towers
+Trade Cycling
+Twigs
+Waystones
+Xaero's Minimap
+Xaero's World Map
+Xerca's Music Maker Mod
+YUNG's API
+YUNG's Better Dungeons
+YUNG's Better Mineshafts
+YUNG's Better Strongholds
+YUNG's Bridges
